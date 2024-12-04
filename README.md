@@ -1,58 +1,47 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-    Olá! Meu nome é <strong>Marcelo Bernardino da Silva Júnior</strong>, sou estudante de Ciência da Computação na UNIFAL-MG e
-    desenvolvedor java especializado em construir aplicações robustas e escaláveis. Tenho experiência nas seguintes tecnologias:
-    <ul>
-        <li><strong>Java</strong> e <strong>Spring Boot</strong>: Desenvolvimento de APIs RESTful e microserviços.</li>
-        <li><strong>Spring Security</strong>: Implementação de segurança em aplicações.</li>
-        <li><strong>Spring Data JPA</strong>: Gerenciamento eficiente de dados.</li>
-        <li><strong>ReactJS</strong>: Criação de interfaces de usuário dinâmicas.</li>
-        <li><strong>HTML, CSS e JavaScript</strong>: Desenvolvimento front-end.</li>
-    </ul>
-    Estou sempre buscando aprender mais e aprimorar minhas habilidades.
+<p align="left">
+  Estudante de Ciência da Computação na UNIFAL-MG. Sempre em busca de aprender e aprimorar minhas habilidades em desenvolvimento de software. Tenho experiência em várias tecnologias, com foco especial em Java e no ecossistema Spring.
 </p>
 
 <p align="left">
-  <strong>Linguagens: </strong><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <br><strong>Frameworks: </strong><br>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">
-  <br><strong>Banco de Dados: </strong><br>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <strong>Habilidades: </strong><br>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" width="35px">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS3" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="Javascript" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="ReactJs" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring Framework" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="Firebase" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="35px">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" alt="intellij-idea" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Maven-Dark.svg" alt="Maven" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="35px">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="35px">
 </p>
 
 <p align="left">
-  <strong>Ferramentas: </strong><br>
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij-idea">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <strong>Contato: </strong><br>
+  Estou sempre aberto a colaborações, feedbacks e novas oportunidades! Sinta-se à vontade para entrar em contato comigo:<br>
 </p>
 
-<p align="left">
-    Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
-</p>
-
-<p align="left">
+<div align="left">
   <a href="mailto:marcelo.bernardino@sou.unifal-mg.edu.br" title="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" width="35px">
   </a>
   
-  <!--<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>-->
-
-  <a href="https://github.com/MarceloB-Junior" title="Github" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  <a href="www.linkedin.com/in/marcelo-bernardino-da-silva-júnior-506294340" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="35px">
+    </a>
+  
+  <a href="https://github.com/MarceloB-Junior" title="Github">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="Github" width="35px">
   </a>
-  <br>Estou sempre aberto a colaborações e feedback!
-</p>
+</div>
