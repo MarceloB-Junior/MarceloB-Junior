@@ -36,11 +36,9 @@
   <a href="mailto:marcelo.bernardino@sou.unifal-mg.edu.br" title="Gmail">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" width="35px">
   </a>
-  
-  <a href="www.linkedin.com/in/marcelo-bernardino-da-silva-júnior-506294340" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/marcelo-bernardino-da-silva-j%C3%BAnior-506294340" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="35px">
     </a>
-  
   <a href="https://github.com/MarceloB-Junior" title="Github">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="Github" width="35px">
   </a>
